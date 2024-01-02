@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{B527B62D-73AF-4251-92E0-E44E8B67894E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciKayit", "OgrenciKayit\OgrenciKayit.csproj", "{2AF43D04-A4C1-4AE3-9B54-450DFEA4EB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgretmenKayit", "OgretmenKayit\OgretmenKayit.csproj", "{3E4A1F10-B01E-4E28-B795-096759501376}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulApp.MODEL", "OkulApp.MODEL\OkulApp.MODEL.csproj", "{8CECC557-EC37-4E13-85FC-7053F1829DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulAppOgrenci.BLL", "OkulAppOgrenci.BLL\OkulAppOgrenci.BLL.csproj", "{279C9C0C-4D53-46C5-8C61-C08CE620A101}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulAppOgretmen.BLL", "OkulAppOgretmen.BLL\OkulAppOgretmen.BLL.csproj", "{210931EB-7E71-4A1D-9A84-08A24706992C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B527B62D-73AF-4251-92E0-E44E8B67894E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B527B62D-73AF-4251-92E0-E44E8B67894E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B527B62D-73AF-4251-92E0-E44E8B67894E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B527B62D-73AF-4251-92E0-E44E8B67894E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF43D04-A4C1-4AE3-9B54-450DFEA4EB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF43D04-A4C1-4AE3-9B54-450DFEA4EB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF43D04-A4C1-4AE3-9B54-450DFEA4EB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF43D04-A4C1-4AE3-9B54-450DFEA4EB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E4A1F10-B01E-4E28-B795-096759501376}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E4A1F10-B01E-4E28-B795-096759501376}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E4A1F10-B01E-4E28-B795-096759501376}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E4A1F10-B01E-4E28-B795-096759501376}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CECC557-EC37-4E13-85FC-7053F1829DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CECC557-EC37-4E13-85FC-7053F1829DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CECC557-EC37-4E13-85FC-7053F1829DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CECC557-EC37-4E13-85FC-7053F1829DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{279C9C0C-4D53-46C5-8C61-C08CE620A101}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279C9C0C-4D53-46C5-8C61-C08CE620A101}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279C9C0C-4D53-46C5-8C61-C08CE620A101}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279C9C0C-4D53-46C5-8C61-C08CE620A101}.Release|Any CPU.Build.0 = Release|Any CPU
+		{210931EB-7E71-4A1D-9A84-08A24706992C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{210931EB-7E71-4A1D-9A84-08A24706992C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{210931EB-7E71-4A1D-9A84-08A24706992C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{210931EB-7E71-4A1D-9A84-08A24706992C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FED6C934-4C6F-4C09-8316-981E7EE1BA2F}
+	EndGlobalSection
+EndGlobal
